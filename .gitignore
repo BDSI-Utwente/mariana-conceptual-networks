@@ -1,0 +1,13 @@
+# top level
+.vscode/
+data/
+
+# python
+
+# nodejs
+node_modules
+.yarn
+.yarnrc.yml
+
+# R
+.Rhistory

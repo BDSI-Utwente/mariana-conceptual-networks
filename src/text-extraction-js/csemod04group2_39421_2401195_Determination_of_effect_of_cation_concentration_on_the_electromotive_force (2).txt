@@ -1,0 +1,161 @@
+Determination of effect of cation concentration on the electromotive force
+Jip Hoogland – 2586770
+
+
+Aim and learning objective from the practicum
+Expected learning objective from the student before the experiment
+Expected learning objective from the student after the experiment
+Learning objective fulfilled?
+Attaining the building knowledge of the working principle of an electrochemical cell. Further training 
+To apply and further understand conceptual modelling. Learn to correlate electromotive force and use this to solve unknown concentrations of electrochemical cell components
+To further understand how to apply conceptual modelling and use critical thinking to find a way to explain the correlation between electromotive force and concentration of electrolyte to figure out unknown concentrations in electrical cell components
+This learning object was fulfilled, combining the knowledge of the electrochemistry lectures with the results in the lab resulted in a good understanding of how a electrical cell works and how different concentrations influence the measured potential
+
+Introduction
+An electrochemical cell is a cell that can transport electrons from the anode to the cathode and therefore create a current and also store energy (as in a battery). An electrochemical cell contains multiple components: An anode + cathode, a salt bridge or membrane, a wire connecting the anode with the cathode and (often) two ionic solutions in which the anode and cathode are placed. The cathode undergoes a reduction reaction (Accepts electrons) and the anode undergoes an oxidation reaction (gives away electrons), the electrons that are given away and accepted on the other part are transported through the wire, creating a current. The electron transport happens without applying energy when the electron potential of the reaction is positive. 
+The two half reactions in this case are:
+- Cu2+ + 2e- -> Cu (+0,34 V)
+- Zn2+ + 2e- -> Zn (-0,76 V)
+Combining the half reactions give:
+Cu2+ + Zn Zn2+ + Cu
+Risk assessment
+The used chemicals in this experiment are as follows: Zinc-sulphate and Copper-sulphate solutions, A Copper and Zinc strip and a salt bridge.
+Zinc sulphate
+Hazards: Corrosive, Irritant, Environmentally damaging
+What to do in case of:
+Contact with eyes: rinse cautiously for several minutes
+Contact with skin: rinse with water for several minutes
+Spills: Wipe up with paper and dispose in black bin
+Chemical waste category: 1 
+Wear gloves when handling this chemical
+Copper sulphate
+Hazards: Harmful, Irritant, Environmentally damaging
+What to do in case of:
+Contact with eyes: Rinse cautiously for several minutes
+Contact with skin: Wash with plenty of water
+Spills: Wipe up with paper and dispose in black bin
+Chemical waste category: 1
+Copper strip
+Hazards: toxic, irritant 
+What to do in case of:
+Contact with eyes: rinse eyes thoroughly 
+Contact with skin: wash with soap for 10-15 minutes
+The strips may be re-used, so they can be cleaned with soap and used again.
+The copper strip might be contaminated with copper-sulphate when getting the strip out of it, be thorough in cleaning this strip directly afterwards to prevent contamination of the workspace/
+Zinc strip
+Hazards: May form combustible dust concentration in air, health hazards upon inhalation
+
+What to do in case of:
+Contact with eyes: wash area with soap for 15 minutes
+Contact with skin: rinse eyes gently
+The strips may be re-used, so they can be cleaned with soap and used again.
+The zinc strip might be contaminated with zinc-sulphate when getting the strip out of it, be thorough in cleaning this strip directly afterwards to prevent contamination of the workspace.
+Salt bridge
+Hazards: none
+What to do in case of:
+Contact with eyes: rinse the eyes with water gently for 10-15 minutes
+Contact with skin: wash the area with soap for 10-15 minutes
+Spills/breakage: Clean with tissue paper if the salt bridge breaks and the liquid inside spills and dump in the black bin and dispose the glass in the glass bin
+
+
+Conceptual model CM0
+
+Questions from conceptual model
+Table VI
+Part of the experiment
+Observation
+Questions based on observation
+1. The salt bridge
+
+1. The salt bridge must be fully filled
+1. Does the salt bridge have to be fully filled?/Does the reaction work if there is not a salt bridge available?
+2. The half reactions
+
+2. The half reactions may happen at a quicker or slower speed
+2. Does the concentration of the CuSO4 or ZnSO4 influence the cell potential?
+3. The strips
+3. The strips react as well
+3. Can the Zinc strip completely react until there is no more reaction possible?
+
+Research questions
+Connection to table vi.
+Research questions
+Point 1: the salt bridge 
+1. If the salt bridge is not fully filled, will the reaction completely stop?
+Point 2/3: The zinc and copper sides
+2. Does the zinc/copper sulphate concentration influence the measured potential and what is the effect on the copper and zinc strip?
+
+
+Measurement model
+The goal of the experiment is to determine if changing the concentration of either CuSO4 or ZnSO4 has an effect on the measured electromotive force. Firstly, a normal electrochemical cell is constructed with the given substances, after that, different concentrations of copper sulfide are used to determine the effect of the concentration 
+
+
+Hypothesis
+Lowering the concentration of CuSO4 will result in fewer Cu2+ ions in the solution, since these will react to Cu(s) the measured voltage will be lower.
+Lowering the concentration of ZnSO4 will result in fewer Zn2+ ions in the solution, since there will be more Zn2+ due to Zn reacting to its ionized form the measured voltage will be higher.
+Note: With the available equipment only the effect of CuSO4 concentration could be measured.
+
+
+Results
+Cu2+ concentrations (M)
+Measured potential (V)
+0.1 M
+0.9723 V
+Saturated
+0.9846 V
+1*10^-3 M
+0.9603 V
+0.03 M
+0.9701 V
+0.3 M
+0.9434* V
+Unknown Solution
+0.9885 V
+*This was the first measurement, there were troubles with the salt bridge which probably led to this measurement being incorrect.
+
+After practicum during meeting with LA
+Part of the experiment
+Observation
+Questions based on observation
+Overarching question
+1. Measurements
+1. The salt bridge is leaking
+1. Does the salt bridge work correctly?
+1. Does the leaking salt bridge influence the measured potential?
+2. Results
+2. A lower concentration results in a lower measured potential
+2. Does the concentration have an effect on the measured potential
+2. Does lowering the concentration of CuSO4 correlate to a lower measured potential which is equal to the theoretical graph plotted using the Nernst equation?
+3. Measurements
+3. The zinc and copper strip changed color. The copper strip slowly turned blue/greenish.
+3. Does the reaction on the copper and zinc strip become visible?
+3. Does oxidation take place on the copper strip? Does the oxygen from the CuSO4 react to Copper-oxide? Does this influence the results?
+4. Results
+4. The 0.3 M measurement is much lower then other measurements
+4. Did something go wrong during this measurement?
+4. Does a leaking salt bridge result in a lower measured potential?
+5. Results
+5. The Unknown sample had a higher measured voltage then the saturated solution
+5. Did something go wrong with the measurements?
+5. Where the Saturated and Unknown solution interchanged? (Unknown had S written on it).
+6. Results 
+6. Except the incorrect measurement the results show a clear line
+6. Do the measurements point correlate and when put into the graph from a curve?
+6. Does the measurements curve look like the 
+
+Second conceptual model CM1
+
+CM0 (before the practicum). 
+CM1 (after the practicum and meeting with the learning assistant)
+Point 2: The explanation for this was not yet in the CM
+1. Does the change in concentration CuSO4 influence the measured potential?
+Point 3: The colour change was not shown in the CM0
+2. Does oxidation take place on the copper and zinc strip, and does this influence the results?
+
+Third conceptual model CM2
+This part consists of a short story which explains the measurements and adds to the second conceptual model.
+What cannot be seen in the second conceptual model is the actual concentration of the cationic side (the Copper side). A higher concentration will result in a higher amount of Cu2+ in the solution. Since Cu2+ reacts with 2 e- to Cu (which can be seen in CM1). Since at a higher concentration there are more Cu2+ ions, more Cu2+ ions can react, which will result in a higher measured potential. This potential can be calculated using the Nurnst equation:
+Utotal = Ucell – kT/nF*ln([red]/[ox])
+Since the copper side is the reduction reaction, with higher concentration the value of ln becomes smaller and the Utotal will go up.
+
+Also oxidation takes place, Cu2+ reacts with oxygen and forms a greenish layer, this results in a decrease in measured voltage, so between measurements this must be taken into account.
