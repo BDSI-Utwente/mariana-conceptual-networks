@@ -56,7 +56,7 @@ def get_person_entities(text: str) -> "list[str]":
         if (
             ent.label_ == "PERSON"
             and len(ent.text) >= 5
-            and len(ent.text.strip().split()) >= 2
+            # and len(ent.text.strip().split()) >= 2
         ):
             out.add(ent.text)
     return list(out)
@@ -64,13 +64,13 @@ def get_person_entities(text: str) -> "list[str]":
 
 def anonymize(text: str, actors: "list[str]" = [], patterns: "list[str]" = []):
     for entity in set(get_person_entities(text)):
-        match, confidence = process.extractOne(entity, actors)
-        if confidence >= 90:
-            id = actors.index(match)
+        match = process.extractOne(entity, actors)
+        if match and match[1] >= 90:
+            id = actors.index(match[0])
             text = text.replace(entity, f"PERSON{id}")
 
     for id, actor in enumerate(actors):
-        matches = find_near_matches(actor, text, max_l_dist=3)
+        matches = find_near_matches(actor, text, max_l_dist=1)
         matches.reverse()
         for match in matches:
             text = __replace_substring(text, match.start, match.end, f"PERSON{id}")
@@ -100,7 +100,7 @@ def __main():
 def __replace_substring(
     string: str, start: int, end: int, replacement: str = ""
 ) -> str:
-    return string[:start] + replacement + string[end + 1 :]
+    return string[:start] + replacement + string[end:]
 
 
 if __name__ == "__main__":

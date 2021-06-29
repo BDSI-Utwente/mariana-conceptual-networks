@@ -3,6 +3,7 @@
 data/
 
 # python
+__pycache__
 
 # nodejs
 node_modules
