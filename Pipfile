@@ -4,6 +4,7 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+ipykernel = "*"
 black = "*"
 
 [packages]
@@ -14,10 +15,9 @@ docx2pdf = "*"
 fuzzysearch = "*"
 fuzzywuzzy = "*"
 python-levenshtein = "*"
-ipykernel = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3"
 
 [pipenv]
 allow_prereleases = true
