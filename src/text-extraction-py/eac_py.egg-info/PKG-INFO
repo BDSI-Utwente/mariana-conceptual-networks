@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: eac-py
+Version: 0.0.1
+Summary: Wrapper package for common text operations on student reports
+Home-page: https://github.com/BDSI-UTwente/eac-py
+Author: Karel A. Kroeze
+Author-email: k.a.kroeze@utwente.nl
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+UNKNOWN
+

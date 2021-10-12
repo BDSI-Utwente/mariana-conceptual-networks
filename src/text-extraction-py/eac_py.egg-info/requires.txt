@@ -1,0 +1,7 @@
+pymupdf
+tika
+spacy
+docx2pdf
+fuzzysearch
+fuzzywuzzy
+python-levenshtein
